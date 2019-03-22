@@ -4,17 +4,17 @@ This web application was made to help declutter your brain and maximize your pro
 without a database. This is because React is a light weight framework that can use State functions to maintain a relatively
 small database, which is perfect for a todo list!
 
-### Set-Up 
+## Set-Up 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Bootstrapping the project with create-react-app adds all the standard dependencies required to run a react app. 
 These include, but are not limited to: 
 
-Babel - for Javascript ES6 processing 
-Webpack - for bundling and minifying files
-Test Runners
-Script Automation
+- Babel - for Javascript ES6 processing. 
+- Webpack - for bundling and minifying files.
+- Test Runners.
+- Script Automation.
   
-##### To Run The Application 
+#### To Run The Application 
 
 In your commandline: 
 
